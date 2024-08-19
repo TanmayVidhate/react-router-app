@@ -1,0 +1,14 @@
+
+.NavL{
+    background-color: black;
+    width: 100%;
+    padding: 1vw;
+}
+
+.NavL a{
+    list-style-type: none;
+    margin: 2vw;
+    display: inline;
+    cursor: pointer;
+    color: white;
+}
